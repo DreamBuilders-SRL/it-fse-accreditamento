@@ -1,0 +1,106 @@
+{
+    "appVendor": "DREAMBUILDERSSRL",
+    "appID": "healthcare-practice-management-platform-backend",
+    "appVersion": "v2.73",
+    "results": [
+        {
+            "id": 32,
+            "ts": "2026-05-18T11:31:11.155542Z",
+            "traceId": "6729bc29ee1e73050cf2e00909f04d73",
+            "workflowInstanceId": "",
+            "files": [
+                "32_VALIDAZIONE_TOKEN_JWT_RSA_KO.pdf"
+            ]
+        },
+        {
+            "id": 40,
+            "ts": "2026-05-18T11:31:17.182289Z",
+            "traceId": "409e7eee0e388ac43601896221e5a01e",
+            "workflowInstanceId": "",
+            "files": [
+                "40_VALIDAZIONE_TOKEN_JWT_CAMPO_RSA_KO.pdf"
+            ]
+        },
+        {
+            "id": 154,
+            "ts": "2026-05-18T11:31:29.394107Z",
+            "traceId": "488b4a21ebea6f97afd1ed019519859f",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.58023e4a5ff2effe404ce7073a61e0a1ee9a36e5cccb1c1ef9a0ecec84a16cfa.aa522331d8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "154_VALIDAZIONE_CDA2_RSA_CT8_KO.pdf"
+            ]
+        },
+        {
+            "id": 159,
+            "ts": "2026-05-18T11:31:49.822060Z",
+            "traceId": "7430cb72266a254250a6c65ab082984e",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.3bfc77486fef0cec6190b7afcf151a5195105a561f6474939c2a1788d3387e18.5cb5be5dd2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "159_VALIDAZIONE_CDA2_RSA_CT13_KO.pdf"
+            ]
+        },
+        {
+            "id": 160,
+            "ts": "2026-05-18T11:31:53.421627Z",
+            "traceId": "c8e4b8cf17c1a1054176e930ef4992cf",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.6c8a9b9d84890d86824854472f31e2442482808d883a0da510c2d4fe71437225.48580c5b72^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "160_VALIDAZIONE_CDA2_RSA_CT14_KO.pdf"
+            ]
+        },
+        {
+            "id": 161,
+            "ts": "2026-05-18T11:31:57.299114Z",
+            "traceId": "c4ef27c9c1fe79ad5c21c6364d2f5331",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.4709be10dd847b21837e21d53b02a52412d87a85fa64ac3821fff38f5b6195fc.66b4c4d60f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "161_VALIDAZIONE_CDA2_RSA_CT15_KO.pdf"
+            ]
+        },
+        {
+            "id": 163,
+            "ts": "2026-05-18T11:32:08.127109Z",
+            "traceId": "8e7c763d80bf0abfd155895ec6f573a7",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.f0ff639305f8ccdd11a868baac56c9a5041d51a5cbd9b38054d0dfd2d0de3794.1c9e17111f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "163_VALIDAZIONE_CDA2_RSA_CT17_KO.pdf"
+            ]
+        },
+        {
+            "id": 448,
+            "ts": "2026-05-18T11:32:46.091734Z",
+            "traceId": "7c00f1046f77e782b6511cfc7decdad4",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.9475b81f20978943c09a0e7b651e8bdc6e42d2da33914d74b6eaa24579e985e1.b74d2fae3b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "448_VALIDAZIONE_CDA2_RSA_CT24.pdf"
+            ]
+        },
+        {
+            "id": 449,
+            "ts": "2026-05-18T11:32:52.121227Z",
+            "traceId": "e6414690990492825da673578b349223",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.b529e0526059f6a2c729d81cb7050dda787841e2f0e4148b9a6758da6a0794b6.30993d6f80^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "449_VALIDAZIONE_CDA2_RSA_CT25.pdf"
+            ]
+        },
+        {
+            "id": 468,
+            "ts": "2026-05-18T11:32:59.296890Z",
+            "traceId": "adf11030c126290ddb51e156544533a1",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.cf8e28e2b91ef83ebdc0f9555954048f537dbf92f0c99006926795c5da636d33.8295bc2f8d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "468_VALIDAZIONE_CDA2_RSA_CT27_KO.pdf"
+            ]
+        },
+        {
+            "id": 475,
+            "ts": "2026-05-18T11:33:03.417400Z",
+            "traceId": "4cef1cc28ff410d496f5b2cea43dea7f",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.476c9d183668606027dc0bbabe2f391bd10fbfdcc683852e137ad0655ef27d17.4c56eab29a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "475_VALIDAZIONE_CDA2_RSA_CT28_KO.pdf"
+            ]
+        }
+    ]
+}
